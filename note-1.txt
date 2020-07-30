@@ -4,3 +4,4 @@ logo on the left nav on the right
 nav- about projects contact 
 resume button?
 added logo to nav
+gotta add more
