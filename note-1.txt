@@ -8,3 +8,13 @@ Build a Survey Form +
 Build a Product Landing Page +
 Build a Technical Documentation Page +
 Build a Personal Portfolio Webpage +
+---------------------------------------
+*google replica
+*google.com Search result page replica
+*Registration Form
+*Product Landing Page 
+*Restaurant Menu Page
+*Personal Website for others
+
+9/7/2020
+Simple Login Form || using html & css
