@@ -1,4 +1,4 @@
-Fix everything! 
+ 
 ---------------
 + = done
 - = inprogress
@@ -11,13 +11,23 @@ Build a Personal Portfolio Webpage +
 ---------------------------------------
 *google replica
 *google.com Search result page replica
-*Registration Form
+*Registration Form +
 *Product Landing Page 
 *Restaurant Menu Page
 *Personal Website for others
-
+*hamburger menu
+---------------------------------------
 9/7/2020
 Simple Login Form || using html & css +
-html +
+html + 
+9/15/2020
+hamburger menu |html css javascript tutorial-
+---------------------------------------
+Google seach page replica
+
+
+
+
+
 
 
