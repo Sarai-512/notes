@@ -24,7 +24,10 @@ html +
 hamburger menu |html css javascript tutorial+
 ---------------------------------------
 Google seach page replica
-
+nav-footer of fcc
+html css looking at it replicate
+practise to be responsive
+media query
 
 
 
