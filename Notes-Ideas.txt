@@ -15,7 +15,8 @@ Build a Personal Portfolio Webpage +
 *Product Landing Page 
 *Restaurant Menu Page
 *Personal Website for others
-*hamburger menu
+*hamburger menu +
+*respondus lockdown replica
 ---------------------------------------
 9/7/2020
 Simple Login Form || using html & css +
@@ -24,10 +25,10 @@ html +
 hamburger menu |html css javascript tutorial+
 ---------------------------------------
 Google seach page replica
-nav-footer of fcc
+nav-footer of fcc +
 html css looking at it replicate
 practise to be responsive
-media query
+media query 
 
 
 
