@@ -29,6 +29,7 @@ nav-footer of fcc +
 html css looking at it replicate
 practise to be responsive
 media query 
+back at it 
 
 
 
